@@ -6,6 +6,8 @@ Console.WriteLine("Hola Mundo!");
 
 // Variables
 
+// C# is case sensitive
+
 string libro = "Los Anillos del Poder";
 string telef = "406-235 2352";
 string color = "magenta";
