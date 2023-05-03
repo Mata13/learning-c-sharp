@@ -137,12 +137,32 @@ Console.WriteLine("PRACTICANDO CON VARIABLES");
 Console.WriteLine(CONST_SPACE);
 
 // Exercises
-Console.WriteLine("Write a program that calculates the area of a rectangle given its lenght and width.");
+Console.WriteLine("1. Write a program that calculates the area of a rectangle given its lenght and width.");
 Console.WriteLine(CONST_SPACE2);
 
 int lenght = 5;
 int width = 10;
 
-int area = lenght * width;
-Console.WriteLine("The area of the rectangle is: " + area);
+int areaRectangle = lenght * width;
+Console.WriteLine("The area of the rectangle is: " + areaRectangle);
 
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("2. Write a program that calculates the area of a triangle given its base and height.");
+Console.WriteLine(CONST_SPACE2);
+
+double baseTriangle = 5.0;
+double heightTriangle = 15.0;
+
+double areaTriangle = baseTriangle * heightTriangle * 1/2;
+Console.WriteLine("The area of the triangle is: " + areaTriangle);
+
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("3. Write a program that converts a temperature from Celsius to Farenheit");
+Console.WriteLine(CONST_SPACE2);
+
+double celsius = 25.0;
+double farenheit = (celsius * 9/5) + 32;
+
+Console.WriteLine(celsius + " Celsius = " + farenheit + " Farenheit");
