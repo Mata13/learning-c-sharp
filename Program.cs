@@ -159,10 +159,30 @@ Console.WriteLine("The area of the triangle is: " + areaTriangle);
 
 Console.WriteLine(CONST_SPACE2);
 
-Console.WriteLine("3. Write a program that converts a temperature from Celsius to Farenheit");
+Console.WriteLine("3. Write a program that converts a temperature from Celsius to Farenheit.");
 Console.WriteLine(CONST_SPACE2);
 
 double celsius = 25.0;
 double farenheit = (celsius * 9/5) + 32;
 
 Console.WriteLine(celsius + " Celsius = " + farenheit + " Farenheit");
+
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("4. Write a program that calculates the sum of two integers.");
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("5. Write a program that calculates the difference of two integers.");
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("6. Write a program that calculates the product of two integers.");
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("7. Write a program that calculates the quotient and remainder of two integers.");
+Console.WriteLine(CONST_SPACE2);
