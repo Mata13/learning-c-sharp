@@ -172,17 +172,49 @@ Console.WriteLine(CONST_SPACE2);
 Console.WriteLine("4. Write a program that calculates the sum of two integers.");
 Console.WriteLine(CONST_SPACE2);
 
+int addition = number1 + number2;
+Console.WriteLine("La suma de " + number1 + " y " + number2 + " es " + addition);
+
 Console.WriteLine(CONST_SPACE2);
 
 Console.WriteLine("5. Write a program that calculates the difference of two integers.");
 Console.WriteLine(CONST_SPACE2);
+
+int difference = number2 - number1; // sup that number1 and number2 are integer+, and number2 > number1
+Console.WriteLine("La diferencia entre " + number2 + " y " + number1 + " es " + difference);
 
 Console.WriteLine(CONST_SPACE2);
 
 Console.WriteLine("6. Write a program that calculates the product of two integers.");
 Console.WriteLine(CONST_SPACE2);
 
+int product = number1 * number2;
+Console.WriteLine("El producto de " + number1 + " y " + number2 + " es " + product);
+
 Console.WriteLine(CONST_SPACE2);
 
 Console.WriteLine("7. Write a program that calculates the quotient and remainder of two integers.");
+Console.WriteLine(CONST_SPACE2);
+
+int divisor = 7;
+int dividend = 25;
+
+int quotient = dividend / divisor;
+Console.WriteLine("El quotient de " + dividend + " dividido por " + divisor + " es " + quotient );
+
+int residuo = dividend % divisor;
+Console.WriteLine("El resudio de " + dividend + " dividido por " + divisor + " es " + residuo);
+
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("8. Write a program that calculates the result of raising a number to a power");
+Console.WriteLine(CONST_SPACE2);
+
+double number3 = 2.0;
+int exponent = 5;
+
+double resultPower = Math.Pow(number3, exponent);
+Console.WriteLine("El resultado de elevar " + number3 + " a la " + exponent + " es " + resultPower);
+
+Console.WriteLine(CONST_SPACE2);
 Console.WriteLine(CONST_SPACE2);
