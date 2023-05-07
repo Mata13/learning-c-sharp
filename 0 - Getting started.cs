@@ -236,7 +236,7 @@ Console.WriteLine(mensaje);
 Console.WriteLine(CONST_SPACE2);
 Console.WriteLine(CONST_SPACE2);
 
-Console.WriteLine("Otra forma");
+Console.WriteLine("Otra forma:");
 
 
 if (esMayorDeEdad)
