@@ -218,3 +218,35 @@ Console.WriteLine("El resultado de elevar " + number3 + " a la " + exponent + " 
 
 Console.WriteLine(CONST_SPACE2);
 Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("Booleanos");
+Console.WriteLine(CONST_SPACE2);
+
+int edad = 27;
+bool esMayorDeEdad = edad >= 18;
+string mensaje = "El usuario es menor de edad";
+
+if (esMayorDeEdad)
+{
+	mensaje = "El usuario es mayor de edad";
+}
+
+Console.WriteLine(mensaje);
+
+Console.WriteLine(CONST_SPACE2);
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("Otra forma");
+
+
+if (esMayorDeEdad)
+{
+	mensaje = "El usuario es mayor de edad";
+} else {
+	mensaje = "El usuario es menor de edad";
+}
+
+Console.WriteLine(mensaje);
+
+Console.WriteLine(CONST_SPACE2);
+Console.WriteLine(CONST_SPACE2);
