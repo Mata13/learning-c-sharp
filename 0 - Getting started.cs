@@ -249,4 +249,27 @@ if (esMayorDeEdad)
 Console.WriteLine(mensaje);
 
 Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("Convirtiendo de strings a numeros:");
+Console.WriteLine(CONST_SPACE2);
+
+Console.WriteLine("Cual es tu edad?: "); // recibimos por consola un texto
+string edadTexto = Console.ReadLine(); // lo guardamos en una variable
+// Console.WriteLine("Tu edad es: " + edadTexto); // solo para ver si se esta guardando
+
+// Transformamos a numero usando
+int edad2 = Int32.Parse(edadTexto);
+// Console.WriteLine(edad2); // verificamos si va bien el codigo
+
+bool esMayorDeEdad2 = edad2 >= 18; // si se cumple que sea mayor o igual entonces es True
+string mensaje2 = "Eres menor de edad"; // por defecto es este mensaje
+
+if (esMayorDeEdad2)
+{
+	mensaje2 = "Eres mayor de edad"; // si es mayor de edad entonces es TRue y por lo tanto se muestra este mensaje
+}
+
+Console.WriteLine(mensaje2); // se muestra el mensaje por consola
+
+Console.WriteLine(CONST_SPACE2);
 Console.WriteLine(CONST_SPACE2);
