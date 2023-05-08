@@ -1,0 +1,45 @@
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/bin/Debug/net7.0/learn-c-sharp
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/bin/Debug/net7.0/learn-c-sharp.deps.json
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/bin/Debug/net7.0/learn-c-sharp.runtimeconfig.json
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/bin/Debug/net7.0/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/bin/Debug/net7.0/learn-c-sharp.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.csproj.AssemblyReference.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.AssemblyInfoInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.AssemblyInfo.cs
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.csproj.CoreCompileInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/refint/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/learn-c-sharp.genruntimeconfig.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learn-c-sharp/obj/Debug/net7.0/ref/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/bin/Debug/net7.0/learn-c-sharp
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/bin/Debug/net7.0/learn-c-sharp.deps.json
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/bin/Debug/net7.0/learn-c-sharp.runtimeconfig.json
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/bin/Debug/net7.0/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/bin/Debug/net7.0/learn-c-sharp.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.csproj.AssemblyReference.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.AssemblyInfoInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.AssemblyInfo.cs
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.csproj.CoreCompileInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/refint/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/learn-c-sharp.genruntimeconfig.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/obj/Debug/net7.0/ref/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/bin/Debug/net7.0/learn-c-sharp
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/bin/Debug/net7.0/learn-c-sharp.deps.json
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/bin/Debug/net7.0/learn-c-sharp.runtimeconfig.json
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/bin/Debug/net7.0/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/bin/Debug/net7.0/learn-c-sharp.pdb
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.csproj.AssemblyReference.cache
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.AssemblyInfoInputs.cache
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.AssemblyInfo.cs
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.csproj.CoreCompileInputs.cache
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/refint/learn-c-sharp.dll
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.pdb
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/learn-c-sharp.genruntimeconfig.cache
+/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/Debug/net7.0/ref/learn-c-sharp.dll
