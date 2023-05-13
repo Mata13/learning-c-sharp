@@ -1,0 +1,15 @@
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/bin/Debug/net7.0/03-Some-Methods
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/bin/Debug/net7.0/03-Some-Methods.deps.json
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/bin/Debug/net7.0/03-Some-Methods.runtimeconfig.json
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/bin/Debug/net7.0/03-Some-Methods.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/bin/Debug/net7.0/03-Some-Methods.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.csproj.AssemblyReference.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.AssemblyInfoInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.AssemblyInfo.cs
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.csproj.CoreCompileInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/refint/03-Some-Methods.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/03-Some-Methods.genruntimeconfig.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/03-Some-Methods/obj/Debug/net7.0/ref/03-Some-Methods.dll
