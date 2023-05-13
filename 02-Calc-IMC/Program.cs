@@ -9,7 +9,7 @@ Console.WriteLine("Ingresa tu peso en kg:"); // pedimos que se ingrese el peso p
 double masa = double.Parse(Console.ReadLine()); // convertimos a float los datos de entrada del usuario por consola
 
 Console.WriteLine("Ingresa tu estatura en metros:"); // pedimos que se ingrese la estatura por consola
-double estatura = double.Parse(Console.ReadLine());
+double estatura = double.Parse(Console.ReadLine()); // convertimos de string a numeros
 
 // Calculamos el resultado
 
