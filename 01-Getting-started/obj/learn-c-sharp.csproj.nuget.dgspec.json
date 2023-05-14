@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/learn-c-sharp.csproj": {}
+    "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/01-Getting-started/learn-c-sharp.csproj": {}
   },
   "projects": {
-    "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/learn-c-sharp.csproj": {
+    "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/01-Getting-started/learn-c-sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/learn-c-sharp.csproj",
+        "projectUniqueName": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/01-Getting-started/learn-c-sharp.csproj",
         "projectName": "learn-c-sharp",
-        "projectPath": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/learn-c-sharp.csproj",
+        "projectPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/01-Getting-started/learn-c-sharp.csproj",
         "packagesPath": "/home/zick13/.nuget/packages/",
-        "outputPath": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01 Getting started/obj/",
+        "outputPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/01-Getting-started/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zick13/.nuget/NuGet/NuGet.Config"
