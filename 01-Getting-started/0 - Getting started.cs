@@ -273,3 +273,10 @@ Console.WriteLine(mensaje2); // se muestra el mensaje por consola
 
 Console.WriteLine(CONST_SPACE2);
 Console.WriteLine(CONST_SPACE2);
+
+// Using the method ReadKey()
+
+Console.WriteLine("Presiona cualquier tecla para continuar");
+Console.ReadKey(); // una vez presionada la tecla el programa continua
+Console.WriteLine("Tecla presionada!!"); 
+Console.WriteLine("Hola de nuevo");
