@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/05-Bucles/05-Bucles.csproj",
+      "projectUniqueName": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/05-Bucles/01-While/05-Bucles.csproj",
       "projectName": "05-Bucles",
-      "projectPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/05-Bucles/05-Bucles.csproj",
+      "projectPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/05-Bucles/01-While/05-Bucles.csproj",
       "packagesPath": "/home/zick13/.nuget/packages/",
-      "outputPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/05-Bucles/obj/",
+      "outputPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/05-Bucles/01-While/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zick13/.nuget/NuGet/NuGet.Config"
