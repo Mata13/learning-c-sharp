@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MU2f6b8vTDzhWTw7aB2qwsYQu2TDFEe0dtnQ5AJ8ASxoxOli+TpyoBCq2w2eEK6/YfgEkYURynp7HUizMgX/+g==",
+  "dgSpecHash": "wsK8XvxU7HrDWgkqfxFewEDAYS4UY6C25Ccek2vi2+XN/Uf5mNUaZOvgNH8gOlFXAGTnpokvC9+pG8LZat3L4g==",
   "success": true,
-  "projectFilePath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/02-Calc-IMC/02-Calc-IMC.csproj",
+  "projectFilePath": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/02-Calc-IMC/01-calc-IMC-terminal/02-Calc-IMC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

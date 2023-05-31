@@ -280,3 +280,9 @@ Console.WriteLine("Presiona cualquier tecla para continuar");
 Console.ReadKey(); // una vez presionada la tecla el programa continua
 Console.WriteLine("Tecla presionada!!"); 
 Console.WriteLine("Hola de nuevo");
+
+// Exameple
+
+string a = "33";
+
+Console.WriteLine("El valor de la variable " + "a =" + " " + a);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TWn0M35wVmd1KcDkVtW4qEAceklwgqeqTAM93+cetIDJSPBprumyyi2vq/biRFxYZH5l2E1sthBuzS3npy7uqQ==",
+  "dgSpecHash": "Ff6i7lvibxVn80QEszBlx0anR+2kf+z5WHtakLOIvV3rPpYnLL1/LKCWkELCt4+JxLwofbMRy6dJn8qXG6iqlQ==",
   "success": true,
-  "projectFilePath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/05-Bucles/01-While/05-Bucles.csproj",
+  "projectFilePath": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/05-Bucles/01-While/05-Bucles.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

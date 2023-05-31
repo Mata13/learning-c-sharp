@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/02-Calc-IMC/02-Calc-IMC.csproj": {}
+    "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/02-Calc-IMC/01-calc-IMC-terminal/02-Calc-IMC.csproj": {}
   },
   "projects": {
-    "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/02-Calc-IMC/02-Calc-IMC.csproj": {
+    "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/02-Calc-IMC/01-calc-IMC-terminal/02-Calc-IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/02-Calc-IMC/02-Calc-IMC.csproj",
+        "projectUniqueName": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/02-Calc-IMC/01-calc-IMC-terminal/02-Calc-IMC.csproj",
         "projectName": "02-Calc-IMC",
-        "projectPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/02-Calc-IMC/02-Calc-IMC.csproj",
+        "projectPath": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/02-Calc-IMC/01-calc-IMC-terminal/02-Calc-IMC.csproj",
         "packagesPath": "/home/zick13/.nuget/packages/",
-        "outputPath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/02-Calc-IMC/obj/",
+        "outputPath": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/02-Calc-IMC/01-calc-IMC-terminal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zick13/.nuget/NuGet/NuGet.Config"
