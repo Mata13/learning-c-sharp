@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXdJwoDU0ZEsvb2MuWe/TxZJ3eN6O9xAxKrSJOLEGCzOQgGiKDVSTqF4oaHQmSW49PG9PIyAAeL6mrufwPg40A==",
+  "dgSpecHash": "DzlIUBb02StRcyIKr6JheE9/DKNE56X1BylV4BUaoAQ1A6BMXK/5yZKyTEaqfaMguJfGd1kQMUbdLNsnNaEUAg==",
   "success": true,
-  "projectFilePath": "/home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01-Getting-started/learn-c-sharp.csproj",
+  "projectFilePath": "/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/01-Getting-started/learn-c-sharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

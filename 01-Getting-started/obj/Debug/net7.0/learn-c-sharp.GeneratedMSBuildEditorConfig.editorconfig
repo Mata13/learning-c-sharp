@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = learn_c_sharp
-build_property.ProjectDir = /home/zick13/Documentos/Developer/Courses/ATM/learning-c-sharp/01-Getting-started/
+build_property.ProjectDir = /home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/01-Getting-started/

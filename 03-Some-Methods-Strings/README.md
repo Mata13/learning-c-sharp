@@ -21,3 +21,20 @@ string firsName = "Marc";
 string lastName = "Mat";
 string fullName = firstName + " " + lastName;
 ```
+
+4. <span style="color:#B0E0E6"> You can obtain the length of a string using the 'Length' property: </span>
+
+```
+string text = "Rocky";
+int length = text.Length;
+```
+
+5. <span style="color:#B0E0E6"> You can embed variables or expressions within a string using string interpolation. It uses the '$' symbol and curly braces '{}': </span>
+
+```
+string name = "Rocky";
+int age = 7;
+string message = $ "My name is {name} and I am {age} years old.";
+```
+
+6. <span style="color:#B0E0E6"> Strings have various useful methods, such as 'ToUpper()', 'ToLower()', 'Substring()', 'IndexOf', many more. </span>
