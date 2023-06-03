@@ -51,7 +51,7 @@ namespace MyProgram
 			Console.WriteLine("Modifying Array Elements");
 			Console.WriteLine("...................");
 
-			numArray[6] = 121; // cambia el valor 22 por 121
+			numArray[6] = 121; // cambia el valor del elemento (con i = 6) 22 por 121
 
 			Console.WriteLine(numArray.Length);
 			Console.WriteLine(numArray[6]); // ahora, numArray = {23, 45, 16, 37, 3, 99, 121}
@@ -85,6 +85,62 @@ namespace MyProgram
 
 			Console.WriteLine(numbers[0]); // accediendo al elemento del array dinamico
 			Console.WriteLine(numbers[1]); // accediendo al elemento del array dinamico
+
+
+			// Using the method ReadKey()
+
+			Console.WriteLine("Presiona cualquier tecla para continuar");
+			Console.ReadKey(); // una vez presionada la tecla el programa continua
+
+
+			Console.WriteLine("...................");
+
+			Console.WriteLine("Arrays con diferentes tipos de datos");
+			Console.WriteLine("...................");
+
+			// podemos crear arrays con diferentes tipos de datos usando 'object'
+
+			object[] mixedArray = new object[5]; // nuevo array con size de 5
+			mixedArray[0] = 27; // elemento inicial = 27
+			mixedArray[1] = "10 de abril"; // elemento posicion i = 1
+			mixedArray[2] = 3.1415;
+			mixedArray[3] = true;
+			mixedArray[4] = DateTime.Now; // elemento final, este nos da la fecha y hora actual
+
+			foreach (object item in mixedArray)
+			{
+				Console.WriteLine(item); // se imprimen los elementos del array
+			}
+
+			Console.WriteLine("...................");
+
+			Console.WriteLine("Presiona cualquier tecla para continuar: ");
+			Console.ReadKey();
+
+			Console.WriteLine("...................");
+			Console.WriteLine("Nuevo array");
+			Console.WriteLine("...................");
+
+			// New array
+			object[] mixedArray2 = new object[10]; // definimos un segundo array
+
+			// agregamos elementos al array usando un loop
+			for (int i = 0; i < mixedArray2.Length; i++)
+			{
+				// agregamos elementos
+				mixedArray2[i] = i * 3;
+			}
+
+			// imprimimos los elemetos del array2
+			foreach (object item in mixedArray2)
+			{
+				Console.WriteLine(item);
+			}
+
+			// verificamos que sea de 10 el length del array
+			Console.WriteLine("Length del nuevo array mixedArray2 es: " + mixedArray2.Length);
+
+			Console.WriteLine("...................");
 
 		}
 
