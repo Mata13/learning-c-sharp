@@ -142,6 +142,26 @@ namespace MyProgram
 
 			Console.WriteLine("...................");
 
+			// Listas
+
+			// podemos variar su length variable a diferencia de un array
+			// se pueden elimindar y agregar elementos con facilidad
+			// pero ocupan mas memoria que un array
+
+			List<int> lista = new List<int>(); // creamos una lista de numeros
+
+			// agregamos elementos a la lista
+			lista.Add(2);
+			lista.Add(20);
+			lista.Add(15);
+			lista.Add(100);
+
+			// recorremos la lista usando un for
+			for (int i = 0; i < lista.Count; i++) // i inicia en 0, condicion, contador aumenta
+			{
+				int numero = lista[i];
+				Console.WriteLine($"Elemento del array con: indice {i}, es el numero: {numero}.");
+			}
 		}
 
 	}

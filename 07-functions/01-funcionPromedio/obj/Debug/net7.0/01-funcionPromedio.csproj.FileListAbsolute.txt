@@ -1,0 +1,15 @@
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/bin/Debug/net7.0/01-funcionPromedio
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/bin/Debug/net7.0/01-funcionPromedio.deps.json
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/bin/Debug/net7.0/01-funcionPromedio.runtimeconfig.json
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/bin/Debug/net7.0/01-funcionPromedio.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/bin/Debug/net7.0/01-funcionPromedio.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.csproj.AssemblyReference.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.GeneratedMSBuildEditorConfig.editorconfig
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.AssemblyInfoInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.AssemblyInfo.cs
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.csproj.CoreCompileInputs.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/refint/01-funcionPromedio.dll
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.pdb
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/01-funcionPromedio.genruntimeconfig.cache
+/home/zick13/Documentos/Developer/Courses/Atm/learning-c-sharp/07-functions/01-funcionPromedio/obj/Debug/net7.0/ref/01-funcionPromedio.dll
